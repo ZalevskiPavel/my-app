@@ -1,0 +1,17 @@
+.actions{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.actions button {
+    padding: 6px 10px;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid #d1d5db;
+    background: white;
+    cursor: pointer;
+}
+
+.actions button:hover {
+    background: #f3f4f6;
+}

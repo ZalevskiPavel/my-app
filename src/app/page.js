@@ -1,8 +1,8 @@
 import styles from "./page.module.css";
-import MainForm from "../../features/MainForm/MainForm.jsx"
+import MainTable from "../../features/MainTable/Table"
 
 export default function Home() {
   return (
-    <MainForm/>
+    <MainTable/>
   );
 }
